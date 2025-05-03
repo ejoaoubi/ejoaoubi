@@ -8,6 +8,7 @@ Feel free to connect with me!
 
 ---
 
+
 ### 🔧 Technologies & Tools
 
 Here are some of the technologies I work with:
@@ -18,10 +19,16 @@ Here are some of the technologies I work with:
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.4.5-brightgreen.svg)](https://spring.io/projects/spring-boot)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Used-blue.svg)](https://www.postgresql.org/)
+[![SQLite](https://img.shields.io/badge/SQLite-Used-blue.svg)](https://www.sqlite.org/index.html)
+[![JPA](https://img.shields.io/badge/JPA-Hibernate-lightgrey.svg)](https://hibernate.org/)
+[![Lombok](https://img.shields.io/badge/Lombok-Used-red.svg)](https://projectlombok.org/)
 
 ---
 
-### 🚀 Featured Project
+
+### 🚀 Featured Project's
 
 **[QrCodeGenerator](https://github.com/ejoaoubi/QrCodeGenerator)**
 
@@ -37,11 +44,27 @@ A backend service built with Java and Spring Boot to generate QR Codes. It lever
 
 ---
 
+**[AllergyTerminologyPT](https://github.com/ejoaoubi/AllergyTerminologyPT)**
+
+Clinical Allergy Terminology Repository - A REST API for querying allergy information.
+
+**Tech Stack:**
+[![Java](https://img.shields.io/badge/Java-21-blue.svg)](https://openjdk.java.net/)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.4.5-brightgreen.svg)](https://spring.io/projects/spring-boot)
+[![Maven](https://img.shields.io/badge/Maven-3.9+-orange.svg)](https://maven.apache.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Used-blue.svg)](https://www.postgresql.org/)
+[![SQLite](https://img.shields.io/badge/SQLite-Used-blue.svg)](https://www.sqlite.org/index.html)
+[![JPA](https://img.shields.io/badge/JPA-Hibernate-lightgrey.svg)](https://hibernate.org/)
+[![Lombok](https://img.shields.io/badge/Lombok-Used-red.svg)](https://projectlombok.org/)
+
+
+---
 ### 🌱 What I'm Currently Exploring / Working On
 
 *   Always looking forward to learn.
 
 ---
+
 
 ### 📫 How to reach me:
 
